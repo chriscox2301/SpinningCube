@@ -1,0 +1,14 @@
+/home/chris/Desktop/Projecten/SpinningCube/RotatingCube/bin/Debug/net10.0/RotatingCube
+/home/chris/Desktop/Projecten/SpinningCube/RotatingCube/bin/Debug/net10.0/RotatingCube.deps.json
+/home/chris/Desktop/Projecten/SpinningCube/RotatingCube/bin/Debug/net10.0/RotatingCube.runtimeconfig.json
+/home/chris/Desktop/Projecten/SpinningCube/RotatingCube/bin/Debug/net10.0/RotatingCube.dll
+/home/chris/Desktop/Projecten/SpinningCube/RotatingCube/bin/Debug/net10.0/RotatingCube.pdb
+/home/chris/Desktop/Projecten/SpinningCube/RotatingCube/obj/Debug/net10.0/RotatingCube.GeneratedMSBuildEditorConfig.editorconfig
+/home/chris/Desktop/Projecten/SpinningCube/RotatingCube/obj/Debug/net10.0/RotatingCube.AssemblyInfoInputs.cache
+/home/chris/Desktop/Projecten/SpinningCube/RotatingCube/obj/Debug/net10.0/RotatingCube.AssemblyInfo.cs
+/home/chris/Desktop/Projecten/SpinningCube/RotatingCube/obj/Debug/net10.0/RotatingCube.csproj.CoreCompileInputs.cache
+/home/chris/Desktop/Projecten/SpinningCube/RotatingCube/obj/Debug/net10.0/RotatingCube.dll
+/home/chris/Desktop/Projecten/SpinningCube/RotatingCube/obj/Debug/net10.0/refint/RotatingCube.dll
+/home/chris/Desktop/Projecten/SpinningCube/RotatingCube/obj/Debug/net10.0/RotatingCube.pdb
+/home/chris/Desktop/Projecten/SpinningCube/RotatingCube/obj/Debug/net10.0/RotatingCube.genruntimeconfig.cache
+/home/chris/Desktop/Projecten/SpinningCube/RotatingCube/obj/Debug/net10.0/ref/RotatingCube.dll
