@@ -12,3 +12,4 @@
 /home/chris/Desktop/Projecten/SpinningCube/RotatingCube/obj/Debug/net10.0/RotatingCube.pdb
 /home/chris/Desktop/Projecten/SpinningCube/RotatingCube/obj/Debug/net10.0/RotatingCube.genruntimeconfig.cache
 /home/chris/Desktop/Projecten/SpinningCube/RotatingCube/obj/Debug/net10.0/ref/RotatingCube.dll
+/home/chris/Desktop/Projecten/SpinningCube/RotatingCube/obj/Debug/net10.0/RotatingCube.sourcelink.json

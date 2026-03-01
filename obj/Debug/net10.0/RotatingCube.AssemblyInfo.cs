@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RotatingCube")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d17ae787102fffb067c47ba95b64837341571dde")]
 [assembly: System.Reflection.AssemblyProductAttribute("RotatingCube")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RotatingCube")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
